@@ -1,3 +1,15 @@
+Set up
+
+git clone https://github.com/alenapucova/TodoList.git
+cd todolist
+yarn # or npm install
+yarn start # or npm run start
+Then open up your browser to http://localhost:3000/, and you will be able to see the project.
+
+
+______________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
